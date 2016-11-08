@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8540a87-aeeb-4fb4-9b14-9b226c3cca36" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/voltron42/charsheet/Builder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/charsheet/svg/charsheet.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/charsheet/fo/charsheet.fo" afterPath="$PROJECT_DIR$/resources/charsheet/fo/charsheet.fo" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/charsheet/svg/charsheet.html" afterPath="$PROJECT_DIR$/resources/charsheet/svg/charsheet.html" />
     </list>
     <ignored path="fopsheet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,8 +80,8 @@
       <file leaf-file-name="charsheet.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/charsheet/svg/charsheet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64408726">
-              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+            <state vertical-scroll-proportion="0.35132033">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -124,14 +121,18 @@
                 <element signature="n#style#0;n#rect#18;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#19;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#20;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#text#15;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#21;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#22;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#text#16;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#23;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#text#17;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#24;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#15;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#25;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#rect#26;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#16;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#rect#27;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#text#17;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#rect#28;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#rect#29;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#text#18;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#rect#0;n#svg#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#text#0;n#svg#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -803,12 +804,12 @@
       <updated>1478275410890</updated>
       <workItem from="1478275417203" duration="9785000" />
       <workItem from="1478624232075" duration="1355000" />
-      <workItem from="1478625953349" duration="10932000" />
+      <workItem from="1478625953349" duration="11292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22072000" />
+    <option name="totallyTimeSpent" value="22432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1071,8 +1072,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/charsheet/svg/charsheet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64408726">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.35132033">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#1;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1112,14 +1113,18 @@
             <element signature="n#style#0;n#rect#18;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#19;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#20;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#text#15;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#21;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#22;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#text#16;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#23;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#text#17;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#24;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#15;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#25;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#rect#26;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#16;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#rect#27;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#text#17;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#rect#28;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#rect#29;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#text#18;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#rect#0;n#svg#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#text#0;n#svg#1;n#body#0;n#html#0;n#!!top" expanded="true" />
