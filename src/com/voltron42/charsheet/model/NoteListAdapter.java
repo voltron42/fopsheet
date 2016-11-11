@@ -29,6 +29,7 @@ public class NoteListAdapter extends XmlAdapter<String, NoteList> {
                 values.remove(0),
                 values.remove(0),
                 values.remove(0),
+                values.remove(0),
                 new Integer(values.remove(0)),
                 new Integer(values.remove(0)),
                 new Integer(values.remove(0)),

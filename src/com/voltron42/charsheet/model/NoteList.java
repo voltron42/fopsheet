@@ -20,7 +20,6 @@ public class NoteList {
     private final String flaws;
     private final String notes;
     private final String name;
-    // private final String classAndLevelConfirm;
     private final int copper;
     private final int silver;
     private final int electrum;
@@ -28,7 +27,34 @@ public class NoteList {
     private final int platinum;
     private final int experience;
 
-    public NoteList(String features, String armorProficiencies, String weaponProficiencies, String toolProficiencies, String languages, String equipment, String alignment, String classAndLevel, String race, String background, String personalityTraits, String ideals, String bonds, String flaws, String notes, String name, int copper, int silver, int electrum, int gold, int platinum, int experience) {
+    public NoteList(
+            String features,
+            String armorProficiencies,
+            String weaponProficiencies,
+            String toolProficiencies,
+            String languages,
+            String equipment,
+            String alignment,
+            String classAndLevel,
+            String race,
+            String background,
+            String personalityTraits,
+            String ideals,
+            String bonds,
+            String flaws,
+            String notes,
+            String name,
+            String classAndLevelConfirm,
+            int copper,
+            int silver,
+            int electrum,
+            int gold,
+            int platinum,
+            int experience
+    ) {
+        if (!classAndLevel.equals(classAndLevelConfirm)) {
+            throw new RuntimeException("invalid ");
+        }
         this.features = features;
         this.armorProficiencies = armorProficiencies;
         this.weaponProficiencies = weaponProficiencies;
