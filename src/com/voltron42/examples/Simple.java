@@ -10,7 +10,6 @@ import java.io.File;
 public class Simple {
 
     private static String[] subdirs = new String[]{
-        /*
         "advanced",
         "basic",
         "footnotes",
@@ -19,7 +18,6 @@ public class Simple {
         "pagination",
         "region_body",
         "tables",
-        */
         "svg"
     };
 

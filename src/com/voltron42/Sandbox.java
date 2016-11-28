@@ -12,14 +12,14 @@ public class Sandbox {
             System.out.println("Preparing...");
 
             // Setup directories
-            File baseDir = new File("resources");
+            File baseDir = new File("resources/critters");
             File outDir = new File(baseDir, "out");
             outDir.mkdirs();
 
             // Setup input and output files
-            File xmlfile = new File(baseDir, "projectteam.xml");
-            File xsltfile = new File(baseDir, "projectteam2fo.xsl");
-            File pdffile = new File(outDir, "ResultXML2PDF.pdf");
+            File xmlfile = new File(baseDir, "xml/critters.xml");
+            File xsltfile = new File(baseDir, "xslt/critters.xslt");
+            File pdffile = new File(outDir, "critters.pdf");
 
             System.out.println("Input: XML (" + xmlfile + ")");
             System.out.println("Stylesheet: " + xsltfile);
