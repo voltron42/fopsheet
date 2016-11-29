@@ -7,6 +7,7 @@ import java.io.File;
 public class Sandbox {
 
     public static void main(String[] args) {
+    	
         try {
             System.out.println("FOP ExampleXML2PDF\n");
             System.out.println("Preparing...");

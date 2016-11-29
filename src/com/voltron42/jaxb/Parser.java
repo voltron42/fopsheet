@@ -36,7 +36,7 @@ public class Parser<T> {
                 JAXBContext jaxbContext = JAXBContext.newInstance(type);
                 Unmarshaller unmarshaller = jaxbContext.createUnmarshaller();
                 unmarshaller.setEventHandler(new DefaultValidationEventHandler());
-                Parser parser = new Parser(unmarshaller, type);
+                Parser<T> parser = new Parser<T>(unmarshaller, type);
                 return parser;
             } catch (JAXBException e) {
                 throw new ParserException("failed to build parser", e);

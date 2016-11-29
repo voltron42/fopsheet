@@ -4,7 +4,12 @@ package com.voltron42.jaxb;
  * Created by daniel.johnson on 11/10/2016.
  */
 public class ParserException extends Exception {
-    public ParserException(Exception e) {
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+	public ParserException(Exception e) {
         super(e);
     }
 

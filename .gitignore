@@ -48,3 +48,6 @@ Temporary Items
 
 resources/out
 out
+/.gradle/
+/build/
+/bin/
